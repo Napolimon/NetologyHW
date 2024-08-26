@@ -1,3 +1,1 @@
-123123213
-#YOLO RUSH
-#855
+#ya ustal eto trait'
